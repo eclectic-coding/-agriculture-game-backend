@@ -6,7 +6,7 @@ class CreateGames < ActiveRecord::Migration[6.0]
       t.string :choice2
       t.string :choice3
       t.string :education
-
+      chuck
       t.timestamps
     end
   end
